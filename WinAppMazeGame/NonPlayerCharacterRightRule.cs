@@ -216,7 +216,7 @@ namespace WinAppMazeGame
 
         public bool ObserveRightSide()
         {
-            if (mMatrix[mRow, mColumn + 1] != 0)
+            if (mMatrix[mRow, mColumn + 1] == 1)
                 return true;
             else
                 return false;
@@ -224,7 +224,7 @@ namespace WinAppMazeGame
 
         public bool ObserveLeftSide()
         {
-            if (mMatrix[mRow, mColumn - 1] != 0)
+            if (mMatrix[mRow, mColumn - 1] == 1)
                 return true;
             else
                 return false;
@@ -232,7 +232,7 @@ namespace WinAppMazeGame
 
         public bool ObserveUpSide()
         {
-            if (mMatrix[mRow - 1, mColumn] != 0)
+            if (mMatrix[mRow - 1, mColumn] == 1)
                 return true;
             else
                 return false;
@@ -240,7 +240,7 @@ namespace WinAppMazeGame
 
         public bool ObserveDownSide()
         {
-            if (mMatrix[mRow + 1, mColumn] != 0)
+            if (mMatrix[mRow + 1, mColumn] == 1)
                 return true;
             else
                 return false;

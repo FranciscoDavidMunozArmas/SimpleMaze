@@ -24,3 +24,16 @@ C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMa
 C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.CoreCompileInputs.cache
 C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.exe
 C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.pdb
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\bin\Debug\WinAppMazeGame.exe.config
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\bin\Debug\WinAppMazeGame.exe
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\bin\Debug\WinAppMazeGame.pdb
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmAutomaticBeginnerMazeLeftRule.resources
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmAutomaticBeginnerMazeRightRule.resources
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmManualBeginnerMaze.resources
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmMenu.resources
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.Properties.Resources.resources
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.exe
+C:\Users\Lenovo\Documents\SEP SEMESTRE\VIDEOGAMES\Labertinto\WinAppMazeGame\obj\Debug\WinAppMazeGame.pdb

@@ -45,18 +45,16 @@
             // 
             // txtDirection
             // 
-            this.txtDirection.Location = new System.Drawing.Point(16, 295);
-            this.txtDirection.Margin = new System.Windows.Forms.Padding(4);
+            this.txtDirection.Location = new System.Drawing.Point(12, 240);
             this.txtDirection.Name = "txtDirection";
-            this.txtDirection.Size = new System.Drawing.Size(100, 22);
+            this.txtDirection.Size = new System.Drawing.Size(76, 20);
             this.txtDirection.TabIndex = 34;
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(16, 223);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(4);
+            this.btnExit.Location = new System.Drawing.Point(12, 181);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(120, 52);
+            this.btnExit.Size = new System.Drawing.Size(90, 42);
             this.btnExit.TabIndex = 33;
             this.btnExit.Text = "Salir";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -64,10 +62,9 @@
             // 
             // btnSolve
             // 
-            this.btnSolve.Location = new System.Drawing.Point(16, 164);
-            this.btnSolve.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSolve.Location = new System.Drawing.Point(12, 133);
             this.btnSolve.Name = "btnSolve";
-            this.btnSolve.Size = new System.Drawing.Size(120, 52);
+            this.btnSolve.Size = new System.Drawing.Size(90, 42);
             this.btnSolve.TabIndex = 32;
             this.btnSolve.Text = "Resolver";
             this.btnSolve.UseVisualStyleBackColor = true;
@@ -76,58 +73,54 @@
             // txtData
             // 
             this.txtData.Enabled = false;
-            this.txtData.Location = new System.Drawing.Point(16, 326);
-            this.txtData.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtData.Location = new System.Drawing.Point(12, 265);
+            this.txtData.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtData.Name = "txtData";
-            this.txtData.Size = new System.Drawing.Size(100, 22);
+            this.txtData.Size = new System.Drawing.Size(76, 20);
             this.txtData.TabIndex = 31;
             // 
             // picWalker
             // 
             this.picWalker.Image = global::WinAppMazeGame.Properties.Resources.raton;
-            this.picWalker.Location = new System.Drawing.Point(382, 36);
-            this.picWalker.Margin = new System.Windows.Forms.Padding(4);
+            this.picWalker.Location = new System.Drawing.Point(143, 62);
             this.picWalker.Name = "picWalker";
-            this.picWalker.Size = new System.Drawing.Size(33, 31);
+            this.picWalker.Size = new System.Drawing.Size(25, 25);
             this.picWalker.TabIndex = 3;
             this.picWalker.TabStop = false;
             // 
             // picCheese
             // 
             this.picCheese.Image = global::WinAppMazeGame.Properties.Resources.ima_queso;
-            this.picCheese.Location = new System.Drawing.Point(799, 324);
-            this.picCheese.Margin = new System.Windows.Forms.Padding(4);
+            this.picCheese.Location = new System.Drawing.Point(599, 263);
             this.picCheese.Name = "picCheese";
-            this.picCheese.Size = new System.Drawing.Size(100, 92);
+            this.picCheese.Size = new System.Drawing.Size(75, 75);
             this.picCheese.TabIndex = 2;
             this.picCheese.TabStop = false;
             // 
             // picMaze
             // 
-            this.picMaze.Image = global::WinAppMazeGame.Properties.Resources.laberinto_principianteXS1;
+            this.picMaze.Image = global::WinAppMazeGame.Properties.Resources.simple_maze;
             this.picMaze.InitialImage = ((System.Drawing.Image)(resources.GetObject("picMaze.InitialImage")));
-            this.picMaze.Location = new System.Drawing.Point(157, 15);
-            this.picMaze.Margin = new System.Windows.Forms.Padding(4);
+            this.picMaze.Location = new System.Drawing.Point(118, 12);
             this.picMaze.Name = "picMaze";
-            this.picMaze.Size = new System.Drawing.Size(633, 585);
+            this.picMaze.Size = new System.Drawing.Size(475, 475);
             this.picMaze.TabIndex = 1;
             this.picMaze.TabStop = false;
             // 
             // picMouse
             // 
             this.picMouse.Image = global::WinAppMazeGame.Properties.Resources.raton_perez;
-            this.picMouse.Location = new System.Drawing.Point(16, 15);
-            this.picMouse.Margin = new System.Windows.Forms.Padding(4);
+            this.picMouse.Location = new System.Drawing.Point(12, 12);
             this.picMouse.Name = "picMouse";
-            this.picMouse.Size = new System.Drawing.Size(100, 129);
+            this.picMouse.Size = new System.Drawing.Size(75, 105);
             this.picMouse.TabIndex = 0;
             this.picMouse.TabStop = false;
             // 
             // frmAutomaticBeginnerMazeRightRule
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(909, 614);
+            this.ClientSize = new System.Drawing.Size(682, 499);
             this.Controls.Add(this.txtDirection);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnSolve);
@@ -136,7 +129,6 @@
             this.Controls.Add(this.picCheese);
             this.Controls.Add(this.picMaze);
             this.Controls.Add(this.picMouse);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmAutomaticBeginnerMazeRightRule";
             this.Text = "Laberinto Nivel Principiante (Regla de la Mano Derecha)";
             this.Load += new System.EventHandler(this.frmAutomaticBeginnerMaze_Load);
