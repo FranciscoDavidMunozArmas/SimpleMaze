@@ -153,22 +153,22 @@ namespace WinAppMazeGame
 
         public bool ObserveRightSide()
         {
-            return mMatrix[mRow, mColumn + 1] != 0;
+            return mMatrix[mRow, mColumn + 1] == 1;
         }
 
         public bool ObserveLeftSide()
         {
-            return mMatrix[mRow, mColumn - 1] != 0;
+            return mMatrix[mRow, mColumn - 1] == 1;
         }
 
         public bool ObserveUpSide()
         {
-            return mMatrix[mRow - 1, mColumn] != 0;
+            return mMatrix[mRow - 1, mColumn] == 1;
         }
 
         public bool ObserveDownSide()
         {
-            return mMatrix[mRow + 1, mColumn] != 0;
+            return mMatrix[mRow + 1, mColumn] == 1;
         }
     }
 }
