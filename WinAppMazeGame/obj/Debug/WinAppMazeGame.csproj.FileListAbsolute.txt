@@ -1,0 +1,26 @@
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\bin\Debug\WinAppMazeGame.exe.config
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\bin\Debug\WinAppMazeGame.exe
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\bin\Debug\WinAppMazeGame.pdb
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csprojAssemblyReference.cache
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmMenu.resources
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.Properties.Resources.resources
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.GenerateResource.cache
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.exe
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.pdb
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmManualBeginnerMaze.resources
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmAutomaticBeginnerMazeRightRule.resources
+C:\Users\cxvil\source\repos\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmAutomaticBeginnerMazeLeftRule.resources
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\bin\Debug\WinAppMazeGame.exe.config
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\bin\Debug\WinAppMazeGame.exe
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\bin\Debug\WinAppMazeGame.pdb
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.AssemblyReference.cache
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmAutomaticBeginnerMazeLeftRule.resources
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmAutomaticBeginnerMazeRightRule.resources
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmManualBeginnerMaze.resources
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.frmMenu.resources
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.Properties.Resources.resources
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.GenerateResource.cache
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.exe
+C:\Users\panch\Documents\University\Desarrollo de Videojuegos\Parcial I\WinAppMazeGame\WinAppMazeGame\obj\Debug\WinAppMazeGame.pdb
