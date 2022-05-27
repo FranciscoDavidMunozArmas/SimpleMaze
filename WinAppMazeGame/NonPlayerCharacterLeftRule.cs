@@ -87,7 +87,7 @@ namespace WinAppMazeGame
                 txtDirection.Text = mDirection.ToString();
                 MoveDownSide(picWalker);
             }
-            else if (!ObserveUpSide() && !ObserveRightSide() && ObserveDownSide())
+            else if (!ObserveUpSide() && !ObserveRightSide() && !ObserveDownSide())
             {
                 mDirection = Direction.Left;
                 txtDirection.Text = mDirection.ToString();

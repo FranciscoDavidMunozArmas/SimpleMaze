@@ -46,7 +46,7 @@
             // txtDirection
             // 
             this.txtDirection.Location = new System.Drawing.Point(16, 295);
-            this.txtDirection.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDirection.Margin = new System.Windows.Forms.Padding(4);
             this.txtDirection.Name = "txtDirection";
             this.txtDirection.Size = new System.Drawing.Size(100, 22);
             this.txtDirection.TabIndex = 34;
@@ -54,7 +54,7 @@
             // btnExit
             // 
             this.btnExit.Location = new System.Drawing.Point(16, 223);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(4);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(120, 52);
             this.btnExit.TabIndex = 33;
@@ -65,7 +65,7 @@
             // btnSolve
             // 
             this.btnSolve.Location = new System.Drawing.Point(16, 164);
-            this.btnSolve.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSolve.Margin = new System.Windows.Forms.Padding(4);
             this.btnSolve.Name = "btnSolve";
             this.btnSolve.Size = new System.Drawing.Size(120, 52);
             this.btnSolve.TabIndex = 32;
@@ -85,8 +85,8 @@
             // picWalker
             // 
             this.picWalker.Image = global::WinAppMazeGame.Properties.Resources.raton;
-            this.picWalker.Location = new System.Drawing.Point(182, 65);
-            this.picWalker.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picWalker.Location = new System.Drawing.Point(382, 36);
+            this.picWalker.Margin = new System.Windows.Forms.Padding(4);
             this.picWalker.Name = "picWalker";
             this.picWalker.Size = new System.Drawing.Size(33, 31);
             this.picWalker.TabIndex = 3;
@@ -96,7 +96,7 @@
             // 
             this.picCheese.Image = global::WinAppMazeGame.Properties.Resources.ima_queso;
             this.picCheese.Location = new System.Drawing.Point(799, 324);
-            this.picCheese.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picCheese.Margin = new System.Windows.Forms.Padding(4);
             this.picCheese.Name = "picCheese";
             this.picCheese.Size = new System.Drawing.Size(100, 92);
             this.picCheese.TabIndex = 2;
@@ -104,10 +104,10 @@
             // 
             // picMaze
             // 
-            this.picMaze.Image = global::WinAppMazeGame.Properties.Resources.simple_maze;
+            this.picMaze.Image = global::WinAppMazeGame.Properties.Resources.laberinto_principianteXS1;
             this.picMaze.InitialImage = ((System.Drawing.Image)(resources.GetObject("picMaze.InitialImage")));
             this.picMaze.Location = new System.Drawing.Point(157, 15);
-            this.picMaze.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picMaze.Margin = new System.Windows.Forms.Padding(4);
             this.picMaze.Name = "picMaze";
             this.picMaze.Size = new System.Drawing.Size(633, 585);
             this.picMaze.TabIndex = 1;
@@ -117,7 +117,7 @@
             // 
             this.picMouse.Image = global::WinAppMazeGame.Properties.Resources.raton_perez;
             this.picMouse.Location = new System.Drawing.Point(16, 15);
-            this.picMouse.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picMouse.Margin = new System.Windows.Forms.Padding(4);
             this.picMouse.Name = "picMouse";
             this.picMouse.Size = new System.Drawing.Size(100, 129);
             this.picMouse.TabIndex = 0;
@@ -136,7 +136,7 @@
             this.Controls.Add(this.picCheese);
             this.Controls.Add(this.picMaze);
             this.Controls.Add(this.picMouse);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmAutomaticBeginnerMazeRightRule";
             this.Text = "Laberinto Nivel Principiante (Regla de la Mano Derecha)";
             this.Load += new System.EventHandler(this.frmAutomaticBeginnerMaze_Load);
